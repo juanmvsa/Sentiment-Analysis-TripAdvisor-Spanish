@@ -2,8 +2,8 @@
 This repo contains the following:
 
 - Notebook with the experiments listed in Section 4.
-- Notebook for implementing the first system listed on the paper.
-- Notebook for implementing the second system listed on the paper.
+- Notebook for implementing the first system described in the paper.
+- Notebook for implementing the second system described in the paper.
 - Training data provided in the competition.
 - Test data provided in the competition.
 
